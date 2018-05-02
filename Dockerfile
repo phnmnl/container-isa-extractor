@@ -6,7 +6,7 @@ FROM ubuntu:16.04
 MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME=isa-extractor
-ENV TOOL_VERSION=1.1.0
+ENV TOOL_VERSION=1.1.2
 ENV CONTAINER_VERSION=1.0
 ENV CONTAINER_GITHUB=https://github.com/phnmnl/container-isa-extractor
 
