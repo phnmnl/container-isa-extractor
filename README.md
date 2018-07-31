@@ -3,7 +3,7 @@
 ![Logo](w4m.png)
 
 # W4M ISA extractor
-Version: 1.1.3
+Version: 1.2.0
 
 ## Short description
 
